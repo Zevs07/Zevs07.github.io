@@ -147,6 +147,7 @@ select {
 }
 
 .container-flex-center {
+  font-family: 'Lilita One', cursive;
   width: 100%;
   height: 100%;
   display: flex;
