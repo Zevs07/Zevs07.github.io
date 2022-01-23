@@ -149,7 +149,6 @@ select {
 .container-flex-center {
   width: 100%;
   height: 100%;
-    margin-top: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -168,9 +167,6 @@ select {
 
   .hello__hello{
     font-size: 60px;
-  }
-  .hello__nahui{
-    margin-bottom: 200px;
   }
   .hello__hyinya1 {
     margin-top: 0;
