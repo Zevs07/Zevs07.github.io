@@ -135,6 +135,7 @@ select {
     color:#ffffff;
     cursor: pointer;
     transition: 300ms;
+    margin-top: 30px;
 }
 .hello__nahui:hover, .hello__nahui:active{
   border:2px solid #ff8b8b;
