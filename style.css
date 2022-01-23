@@ -169,7 +169,9 @@ select {
   .hello__hello{
     font-size: 60px;
   }
-
+  .hello__nahui{
+    margin-bottom: 200px;
+  }
   .hello__hyinya1 {
     margin-top: 0;
     height: 100%;
